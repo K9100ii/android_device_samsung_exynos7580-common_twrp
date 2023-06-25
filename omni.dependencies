@@ -1,8 +1,8 @@
 [
 	{
 		"remote":"github",
-		"repository":"TALUAtGitHub/android_kernel_samsung_universal7580",
+		"repository":"K9100ii/android_kernel_samsung_universal7580",
 		"target_path":"kernel/samsung/universal7580",
-		"revision":"lineage-18.1"
+		"revision":"lineage-19.1"
 	}
 ]
